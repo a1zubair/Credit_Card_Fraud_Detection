@@ -1,4 +1,4 @@
-<img width="744" alt="Screenshot 2023-05-08 at 11 02 15 PM" src="https://user-images.githubusercontent.com/114265941/236983778-cf357c28-407b-4c87-8ab6-16cfd96b646d.png">
+<img width="676" alt="Screenshot 2023-05-08 at 11 02 15 PM" src="https://user-images.githubusercontent.com/114265941/236983778-cf357c28-407b-4c87-8ab6-16cfd96b646d.png">
 
 <img width="676" alt="Screenshot 2023-05-08 at 11 02 56 PM" src="https://user-images.githubusercontent.com/114265941/236983795-fd07950a-da10-4b8d-bbdf-ee2fc41d3bea.png">
 
